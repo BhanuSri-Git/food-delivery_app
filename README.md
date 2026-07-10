@@ -185,23 +185,21 @@ Order History / Tracking
 
 > Add screenshots to a `screenshots/` folder at the project root and commit them, then they'll render below.
 
-### Landing Page
-![Landing](screenshots/landing.png)
+![Landing Page](landing.png)
 
-### Login
-![Login](screenshots/login.png)
+![Login Page](login.png)
 
-### Restaurants Page
-![Restaurants](screenshots/restaurant.png)
+![Home Page](home.png)
 
-### Menu
-![Menu](screenshots/menu.png)
+![Restaurants Page](restaurants.png)
 
-### Cart
-![Cart](screenshots/cart.png)
+![Menu Page](menu.png)
 
-### Order Tracking
-![Order](screenshots/order.png)
+![Cart Page](cart.png)
+
+![Checkout Page](checkout.png)
+
+![Place Order](placeorder.png)
 
 ---
 
